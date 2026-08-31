@@ -1,0 +1,24 @@
+path,size_bytes,description
+R/07_compute_owid_gco_one_star_correlation.R,2675,R script for OWID-GCO cross-database MA analysis.
+R/08_compute_owid_gco_two_star_partial_correlation.R,3305,R script for OWID-GCO cross-database MA analysis.
+R/09_plot_owid_gco_one_star_heatmap.R,4695,R script for OWID-GCO cross-database MA analysis.
+R/10_plot_owid_gco_two_star_heatmap.R,4767,R script for OWID-GCO cross-database MA analysis.
+R/11_run_owid_gco_cross_database_pipeline.R,348,R script for OWID-GCO cross-database MA analysis.
+R/utils_owid_gco_cross_database.R,6427,R script for OWID-GCO cross-database MA analysis.
+data/cross_database/owid_gco/input/All_OWID_Data_2020_Cancer_incidence.xlsx,4410179,OWID 2020 country-level indicator matrix used in the OWID-GCO linkage.
+data/cross_database/owid_gco/input/GCO_cancer_incidence_2020_standardized_cancer_names.xlsx,37248,GCO/GLOBOCAN 2020 cancer-incidence table with standardized English cancer subtype names.
+data/cross_database/owid_gco/input/README.md,808,
+data/cross_database/owid_gco/matrices/one_star/cancer_vs_OWID_correlation_min30_ISOmatched.csv,2142042,One-star cancer × OWID Pearson correlation output.
+data/cross_database/owid_gco/matrices/one_star/cancer_vs_OWID_correlation_min30_long_ISOmatched.csv,9512448,One-star cancer × OWID Pearson correlation output.
+data/cross_database/owid_gco/matrices/two_star/cancer_vs_OWID_partial_correlation_GDPcontrolled_min30_ISOmatched.csv,2151630,Two-star cancer × OWID GDP-adjusted partial-correlation output.
+data/cross_database/owid_gco/matrices/two_star/cancer_vs_OWID_partial_correlation_GDPcontrolled_min30_long_ISOmatched.csv,12038921,Two-star cancer × OWID GDP-adjusted partial-correlation output.
+data/cross_database/owid_gco/matrices/two_star/cancer_vs_OWID_partial_pairwise_n_GDPcontrolled_min30_ISOmatched.csv,647591,Complete-case sample-size matrix for two-star cancer × OWID partial correlations.
+data/cross_database/owid_gco/metadata/cancer_subtype_name_corrections_used_Pearson.csv,1177,Metadata used for cancer label standardization or OWID topic annotation.
+data/cross_database/owid_gco/metadata/cancer_subtype_name_corrections_used_partial.csv,1177,Metadata used for cancer label standardization or OWID topic annotation.
+data/cross_database/owid_gco/metadata/cancer_subtype_name_standardization_table.csv,1043,Metadata used for cancer label standardization or OWID topic annotation.
+data/cross_database/owid_gco/metadata/cancer_vs_OWID_one_star_heatmap_item_topic_mapping_used.csv,235122,Metadata used for cancer label standardization or OWID topic annotation.
+data/cross_database/owid_gco/metadata/cancer_vs_OWID_two_star_heatmap_item_topic_mapping_used.csv,234792,Metadata used for cancer label standardization or OWID topic annotation.
+data/cross_database/owid_gco/processed/cancer_OWID_matched_countries_by_ISO.csv,3039,ISO-matched country-level linkage output.
+docs/OWID_GCO_cross_database_README.md,3934,
+outputs/figures/cancer_vs_OWID_two_star_heatmap_GDPcontrolled.png,297667,Generated figure output.
+outputs/tables/local_indicator_examples/Example.xlsx,783065,

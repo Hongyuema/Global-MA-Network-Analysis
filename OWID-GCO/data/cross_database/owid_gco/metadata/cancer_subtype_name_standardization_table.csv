@@ -1,0 +1,37 @@
+original_cancer_name,standardized_cancer_name
+"Brain,CNS",Brain and CNS cancers
+Bladder,Bladder cancer
+Gallbladder,Gallbladder cancer
+Hodokin lymopha,Hodgkin lymphoma
+Hypopharynx,Hypopharyngeal cancer
+Kaposi sarcoma,Kaposi's sarcoma
+Kidney,Kidney cancer
+Larynx,Laryngeal cancer
+Leukaemia,Leukemia
+"Lip,oral cavity",Lip and oral cavity cancer
+Liver,Liver cancer
+Lung,Lung cancer
+Melanoma of skin,Melanoma of skin
+Mesothelioma,Mesothelioma
+Multiple myeloma,Multiple myeloma
+Nasopharynx,Nasopharyngeal cancer
+Non-Hodgkin lymphoma,Non-Hodgkin lymphoma
+Non-melanoma skin cancer,Nonmelanoma skin cancer
+Oseophagus,Esophageal cancer
+Oropharynx,Oropharyngeal cancer
+Pancreas,Pancreatic cancer
+Salivary gland,Salivary gland cancer
+Stomach,Stomach cancer
+Thyroid,Thyroid cancer
+Colon,Colon cancer
+Anus,Anal cancer
+Rectum,Rectal cancer
+Breast,Breast cancer
+Cervix uteri,Cervical cancer
+Corpus uteri,Uterine corpus cancer
+Ovary,Ovarian cancer
+Vagina,Vaginal cancer
+Vulva,Vulvar cancer
+Penis,Penile cancer
+Prostate,Prostate cancer
+Testis,Testicular cancer
